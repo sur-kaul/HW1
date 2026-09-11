@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AccountRegistrationValidator/AccountRegistrationValidator.csproj" />
+  <Project Path="HW1/ShippingCalculator.csproj" />
+  <Project Path="ResturauntOrder/RestaurantOrder.csproj" />
+</Solution>
